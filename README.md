@@ -28,8 +28,10 @@ git add algoritmo.por
 git commit -m "Joao Vitor: estrutura inicial do algoritmo.por"
 git push -u origin main
 git add README.md
+
 git commit -m "Joao Vitor: criacao do README.md"
 git push origin main
 
 ---
-*Miguel e Caue completar este arquivo.*
+
+
