@@ -18,6 +18,22 @@ programa
 
         // Miguel ira calcular a media aqui
 
-        // Caue ira exibir o resultado e situacao aqui
-    }
-}
+                // Caue: Exibicao da situacao do aluno
+        escreva("Situacao do aluno: ")
+
+        se (media >= 7.0) {
+            escreva("Aprovado\n")
+        } senao se (media >= 5.0) {
+            escreva("Recuperacao\n")
+        } senao {
+            escreva("Reprovado\n")
+        }
+        escreva("Situacao do aluno: ")
+
+        se (media >= 7.0) {
+            escreva("Aprovado\n")
+        } senao se (media >= 5.0) {
+            escreva("Recuperacao\n")
+        } senao {
+            escreva("Reprovado\n")
+        }
