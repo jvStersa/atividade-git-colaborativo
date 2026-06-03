@@ -1,4 +1,3 @@
-programa
 {
     // Algoritmo: Calculo de Media de Notas
     // Grupo: Joao Vitor, Miguel, Caue
@@ -16,7 +15,11 @@ programa
         escreva("Digite a terceira nota: ")
         leia(nota3)
 
-        // Miguel ira calcular a media aqui
+// Miguel: Calculo da media
+        real media
+        media = (nota1 + nota2 + nota3) / 3.0
+
+        escreva("\nMedia calculada: ", media, "\n") 
 
                 // Caue: Exibicao da situacao do aluno
         escreva("Situacao do aluno: ")
